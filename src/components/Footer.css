@@ -1,0 +1,24 @@
+footer {
+    background: linear-gradient(135deg, #1f2937, #3b4a5a);
+    color: #fff;
+    font-family: 'Arial', sans-serif;
+}
+
+footer a {
+    text-decoration: none;
+    color: inherit;
+    transition: color 0.3s;
+}
+
+footer a:hover {
+    color: #1e90ff;
+}
+
+footer i {
+    transition: color 0.3s;
+}
+
+footer i:hover {
+    transform: scale(1.1);
+    color: #1e90ff;
+}
