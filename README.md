@@ -32,7 +32,7 @@ This project is built using the following technologies:
 * Firebase Hosting: For deploying and hosting the website.
 ### Development Tools
 * npm / yarn: Package managers for managing dependencies.
-### Git: For version control and collaboration.
+* Git: For version control and collaboration.
 
 ## Prerequisites
 - **Node.js** (v16 or higher recommended)
