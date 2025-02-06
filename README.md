@@ -21,5 +21,5 @@ https://chill-gamer-f898b.web.app/
 -- Ensure you have Node.js and npm (or yarn) installed on your machine.
 -- Install the required dependencies
 2. Configure Firebase for Local Development
-  If your project uses Firebase services (e.g., Firestore, Authentication, Storage), set up a Firebase project in the Firebase Console.
-  Add your Firebase configuration to your project. This is usually in a file like firebase.js or firebaseConfig.js.
+  i. If your project uses Firebase services (e.g., Firestore, Authentication, Storage), set up a Firebase project in the Firebase Console.
+  ii. Add your Firebase configuration to your project. This is usually in a file like firebase.js or firebaseConfig.js.
