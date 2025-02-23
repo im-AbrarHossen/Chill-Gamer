@@ -1,11 +1,5 @@
 # CHill Gamer
 
-## Client-side code GitHub repository:
-https://github.com/programming-hero-web-course2/b10-a10-client-side-im-AbrarHossen.git
-
-## Server-side code GitHub repository:
-https://github.com/programming-hero-web-course2/b10-a10-server-side-im-AbrarHossen.git
-
 ## Live website link:
 https://chill-gamer-f898b.web.app/
 
